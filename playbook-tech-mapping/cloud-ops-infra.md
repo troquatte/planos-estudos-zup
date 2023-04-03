@@ -183,3 +183,42 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 - [Primeiros Passos: Estudo CI/CD](https://handora.zup.com.br/plano-de-estudos/29)
 
 - [Treinamento Intermediário: Plano de Estudos de DevSecOps em Ambientes de Nuvem](https://handora.zup.com.br/plano-de-estudos/41)
+
+---
+
+## 6. Lista de palavras chave considerando todos os conceitos que são abordados no plano.
+
+- pipeline
+- o que é pipeline
+- pipelines de CI
+- devops
+- o que é o DevOps
+- automação
+- esteira automatizada
+- CI/CD
+- CICD
+- CICD
+- O que é CI/CD
+- computação distribuída
+- finops
+- aws
+- serviços aws
+- computação em nuvem
+- nuvem
+- ambientes de nuvem
+- SQS
+- S3
+- Terraform
+- ECS
+- RDS
+- IAM
+- ECR
+- EKS
+- Security Groups
+- Containers
+- Kubernetes
+- Docker
+- orquestração de containers
+- observabilidade
+- sistemas distribuídos observávei
+- DevSecOps

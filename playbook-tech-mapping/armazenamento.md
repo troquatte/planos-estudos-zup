@@ -2,7 +2,6 @@
 
 ## 2. Descrição do motivo que explica a importância do plano
 
-
 O armazenamento de dados é extremamente importante em diversas áreas, desde empresas e organizações até na vida pessoal das pessoas. Algumas das principais razões pelas quais o armazenamento de dados é importante incluem: Histórico de informações, Tomada de decisão, Backup e recuperação de dados, Análise de dados, Facilitação de colaboração
 
 Em resumo, o armazenamento de dados é essencial para manter as informações seguras, acessíveis e úteis para as empresas e organizações. Sem o armazenamento adequado de dados, muitas empresas não conseguiriam operar de maneira eficiente ou tomar decisões informadas.
@@ -67,7 +66,6 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 
 - [Treinamento Avançado: CFB Cursos - Aulas 27 até 42](https://youtube.com/playlist?list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra)
 
-
 ---
 
 ### Titulo do Tema: P16
@@ -101,6 +99,7 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 - [Treinamento Intermediário: Usando dynamo](https://aws.amazon.com/pt/dynamodb/features/?pg=dynamodbt&sec=hs)
 
 - [Treinamento Intermediário: Dynamo (6 a 9)](https://www.pensarcursos.com.br/curso/dynamo)
+
 ---
 
 ### Titulo do Tema: P17
@@ -218,3 +217,25 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 - [Primeiros Passos: Otimização bd postgres](https://cursos.alura.com.br/course/postgresql-administracao-otimizacao)
 
 - [Treinamento Intermediário: Boas práticas para otimização de consultas analíticas](https://blog.dp6.com.br/boas-pr%C3%A1ticas-para-otimiza%C3%A7%C3%A3o-de-consultas-anal%C3%ADticas-1d62ad2a45de)
+
+---
+
+## 6. Lista de palavras chave considerando todos os conceitos que são abordados no plano.
+
+- armazenamento
+- banco de dados
+- postgres
+- mysql
+- sql
+- newsql
+- Dbacorp
+- bancos relacionais
+- NoSQL databases
+- mongodb
+- persistência
+- persistência de dados
+- Dynamo
+- Dynamo DB
+- Modelagem de Banco de Dados
+
+---

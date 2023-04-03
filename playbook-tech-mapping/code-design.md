@@ -177,3 +177,25 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 - [Primeiros Passos: Removendo o FOR de seu código para deixá-lo mais funcional](https://share.atelie.software/removendo-o-for-de-seu-c%C3%B3digo-para-deix%C3%A1-lo-mais-funcional-102ce5d88975?gi=13b89b33ca1e)
 
 - [Treinamento Intermediário: Notação Big O - Dica rápida de como saber a complexidade de um algoritmo](https://www.youtube.com/watch?v=f--A1FK6KK4)
+
+---
+
+## 6. Lista de palavras chave considerando todos os conceitos que são abordados no plano.
+
+- documentação de software
+- README
+- github
+- blueprints
+- documentação com gitHub
+- introdução ao markdown
+- Swagger
+- Compodoc
+- solid
+- clean code
+- padrões de projetos
+- design patterns
+- gof
+- DRY
+- KISS
+- YAGNI
+- refatoração

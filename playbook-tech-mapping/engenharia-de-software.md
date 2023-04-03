@@ -203,3 +203,21 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 - [Primeiros Passos: Mensurando a complexidade em projetos de software](https://www.tiespecialistas.com.br/mensurando-complexidade-em-projetos-de-software/)
 
 - [Treinamento Intermediário: Análise de Requisitos: o que saber para o desenvolvimento do seu projeto](https://www.next4.com.br/analise-de-requisitos-o-que-saber-para-desenvolver-seu-projeto/)
+
+---
+
+## 6. Lista de palavras chave considerando todos os conceitos que são abordados no plano.
+
+- design de software
+- arquitetura de software
+- arquitetura limpa
+- micro Front-end
+- API gateway
+- microsserviços
+- webpack
+- ciência da computação
+- teoria dos grafos
+- documentar software
+- documentação
+- C4 Model
+- programador pragmático

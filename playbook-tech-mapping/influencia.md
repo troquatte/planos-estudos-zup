@@ -149,3 +149,19 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 - [Treinamento Intermediário: Curso de Customer Success - O sucesso do cliente como foco](https://www.udemy.com/course/curso-de-customer-success-o-sucesso-do-cliente-como-foco/)
 
 - [Treinamento Avançado: Curso de customer experience & gestão produtos digitais](https://www.lemonadeschool.com.br/customer-experience-curso)
+
+---
+
+## 6. Lista de palavras chave considerando todos os conceitos que são abordados no plano.
+
+- treinamento
+- como montar um treinamento
+- como criar um curso online
+- gestão de Pessoas
+- liderança
+- como escrever um artigo
+- como escrever texto para blog
+- Como escrever e publicar um artigo
+- code review
+- como ser um especialista
+- customer centric

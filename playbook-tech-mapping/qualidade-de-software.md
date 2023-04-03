@@ -4,9 +4,9 @@
 
 Qualidade de software se refere à capacidade do software de atender aos requisitos e expectativas do usuário de forma confiável e consistente. Isso inclui aspectos como funcionalidade, eficiência, segurança, facilidade de uso, manutenção, portabilidade e escalabilidade.
 
-A importância da qualidade de software é muito grande, pois um software de baixa qualidade pode resultar em erros, falhas, retrabalho, tempo perdido e insatisfação do cliente. Isso pode afetar negativamente a reputação da empresa, a produtividade dos funcionários e até mesmo os resultados financeiros. 
+A importância da qualidade de software é muito grande, pois um software de baixa qualidade pode resultar em erros, falhas, retrabalho, tempo perdido e insatisfação do cliente. Isso pode afetar negativamente a reputação da empresa, a produtividade dos funcionários e até mesmo os resultados financeiros.
 
-Por outro lado, um software de alta qualidade pode melhorar a eficiência e eficácia dos processos de negócio, aumentar a satisfação do cliente, reduzir os custos de manutenção e melhorar a reputação da empresa. 
+Por outro lado, um software de alta qualidade pode melhorar a eficiência e eficácia dos processos de negócio, aumentar a satisfação do cliente, reduzir os custos de manutenção e melhorar a reputação da empresa.
 
 Em resumo, a qualidade de software é fundamental para garantir o sucesso de um produto de software e a satisfação do cliente.
 
@@ -16,7 +16,7 @@ Em resumo, a qualidade de software é fundamental para garantir o sucesso de um 
 
 Lembrar: Recordar as principais técnicas e metodologias utilizadas para garantir a qualidade de software, incluindo testes de software, revisão de código, análise estática e dinâmica de código e padrões de projeto.
 
-Compreender: Ao atingir esse objetivo, a pessoa terá um entendimento aprofundado dos fundamentos de qualidade de software, o que inclui uma compreensão clara dos conceitos e princípios básicos relacionados à qualidade, bem como a importância da qualidade de software em um projeto de desenvolvimento. 
+Compreender: Ao atingir esse objetivo, a pessoa terá um entendimento aprofundado dos fundamentos de qualidade de software, o que inclui uma compreensão clara dos conceitos e princípios básicos relacionados à qualidade, bem como a importância da qualidade de software em um projeto de desenvolvimento.
 
 Aplicar: Ao atingir esse objetivo, a pessoa será capaz de aplicar as técnicas e metodologias de qualidade de software aprendidas para garantir que o software desenvolvido atenda aos requisitos e expectativas do usuário de forma confiável e consistente. Isso inclui a capacidade de realizar testes de software, revisões de código, análises estáticas e dinâmicas de código e seguir padrões de projeto.
 
@@ -86,9 +86,9 @@ Contendos relacionados ao tema
 
 Lista contendo uma ou mais Referências, em sequência lógica de consumo
 
-- [Saindo do Zero: Artigo 1](https://www.nova8.com.br/2021/02/entenda-o-que-e-sdlc-e-quais-sao-suas-etapas/#:~:text=SDLC%20%C3%A9%20um%20processo%20sistem%C3%A1tico,atenda%20%C3%A0s%20expectativas%20do%20cliente.)
+- [Saindo do Zero: Entenda o que é SDLC e quais são suas etapas](https://www.nova8.com.br/2021/02/entenda-o-que-e-sdlc-e-quais-sao-suas-etapas/#:~:text=SDLC%20%C3%A9%20um%20processo%20sistem%C3%A1tico,atenda%20%C3%A0s%20expectativas%20do%20cliente.)
 
-- [Saindo do Zero: Artigo 2](http://www.linhadecodigo.com.br/artigo/1708/sdlc-software-development-life-cycle.aspx)
+- [Saindo do Zero: SDLC – Software Development Life Cycle](http://www.linhadecodigo.com.br/artigo/1708/sdlc-software-development-life-cycle.aspx)
 
 - [Primeiros Passos: Ciclo de vida do software: por que é importante saber?](https://www.treinaweb.com.br/blog/ciclo-de-vida-software-por-que-e-importante-saber#:~:text=O%20ciclo%20de%20vida%20de%20um%20software%20%C3%A9%20uma%20estrutura,%2C%20lan%C3%A7ado%2C%20aprimorado%20e%20finalizado.)
 
@@ -98,7 +98,7 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 
 ---
 
-### Titulo do Tema: P32 
+### Titulo do Tema: P32
 
 Contendos relacionados ao tema
 
@@ -108,25 +108,25 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 
 - [Saindo do Zero: The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 
-- [Saindo do Zero: Artigo 1](https://www.nimblework.com/pt-br/agile/testes-unitarios/)
+- [Saindo do Zero: O que é teste de unidade?](https://www.nimblework.com/pt-br/agile/testes-unitarios/)
 
-- [Saindo do Zero: Artigo 2](https://blog.betrybe.com/tecnologia/testes-unitarios/)
+- [Saindo do Zero: Teste unitário: o que são, por que usar e por onde começar?](https://blog.betrybe.com/tecnologia/testes-unitarios/)
 
 - [Saindo do Zero: DevCast](https://www.devmedia.com.br/e-ai-como-voce-testa-seus-codigos/39478)
 
 - [Primeiros Passos: What Is Software Testing | Everything You Should Know](https://www.softwaretestingmaterial.com/software-testing/)
 
-- [Primeiros Passos: Youtube 1](https://www.youtube.com/watch?v=G8SNRbZSRNw)
+- [Primeiros Passos: Escrevendo seus PRIMEIROS TESTES UNITÁRIOS](https://www.youtube.com/watch?v=G8SNRbZSRNw)
 
-- [Primeiros Passos: Youtube 2](https://www.youtube.com/watch?v=5GhPAM3mW-I)
+- [Primeiros Passos: Testes Unitários com .NET Core](https://www.youtube.com/watch?v=5GhPAM3mW-I)
 
-- [Primeiros Passos: Artigo 1](https://www.devmedia.com.br/boas-praticas-em-tdd/40167)
+- [Primeiros Passos: Boas Práticas em TDD](https://www.devmedia.com.br/boas-praticas-em-tdd/40167)
 
 - [Treinamento Intermediário: Teste unitário e Qualidade de Software](https://medium.com/assertqualityassurance/teste-unit%C3%A1rio-e-qualidade-de-software-acce7b9c537)
 
-- [Treinamento Intermediário: Udemy 1](https://www.udemy.com/share/106Cck/)
+- [Treinamento Intermediário: Testes unitários importam?](https://www.udemy.com/share/106Cck/)
 
-- [Treinamento Intermediário: Udemy 2](https://www.udemy.com/share/101qRG/)
+- [Treinamento Intermediário: Testes Automáticos + Curso COMPLETO de Teste de Software](https://www.udemy.com/share/101qRG/)
 
 - [Treinamento Avançado: 10 Dicas para escrever bons testes de unidade](https://blog.mandic.com.br/artigos/10-dicas-para-escrever-bons-testes-de-unidade/)
 
@@ -144,17 +144,17 @@ Lista contendo uma ou mais Referências, em sequência lógica de consumo
 
 - [Saindo do Zero: O QUE É TESTE DE INTEGRAÇÃO E QUAIS SÃO OS TIPOS DE TESTE?](https://kenzie.com.br/blog/teste-de-integracao/)
 
-- [Saindo do Zero: Youtube 1](https://youtu.be/S73guxvsKNk)
+- [Saindo do Zero: O que são testes de integração?](https://youtu.be/S73guxvsKNk)
 
-- [Saindo do Zero: Youtube 2](https://youtu.be/qq8b1bck9AU)
+- [Saindo do Zero: Teste de Unidade versus Teste de Integração | theWiseDev Concepts](https://youtu.be/qq8b1bck9AU)
 
-- [Saindo do Zero: Youtube 3](https://youtu.be/IFzl5yWjbb4)
+- [Saindo do Zero: Qual a diferença entre TESTE UNITÁRIO e de integração? (Pirâmide de testes)](https://youtu.be/IFzl5yWjbb4)
 
 - [Primeiros Passos: Teste de integração na prática](https://www.devmedia.com.br/teste-de-integracao-na-pratica/31877)
 
-- [Primeiros Passos: Artigo 1](https://www.ontestautomation.com/step-by-step-integration-testing-a-case-study/)
+- [Primeiros Passos: Step-by-step integration testing: a case study](https://www.ontestautomation.com/step-by-step-integration-testing-a-case-study/)
 
-- [Primeiros Passos: Artigo 2](https://www.lambdatest.com/learning-hub/integration-testing)
+- [Primeiros Passos: Integration Testing Tutorial: A Comprehensive Guide With Examples And Best Practices](https://www.lambdatest.com/learning-hub/integration-testing)
 
 - [Treinamento Intermediário: 10 ferramentas para integração e entrega contínuas na nuvem](https://itforum.com.br/noticias/10-ferramentas-para-integracao-e-entrega-continuas-na-nuvem/)
 
@@ -194,10 +194,34 @@ Contendos relacionados ao tema
 
 Lista contendo uma ou mais Referências, em sequência lógica de consumo
 
-- [Saindo do Zero: Artigo 1](https://aiqon.com.br/blog/owasp-qual-a-importancia-em-aplicacoes-web/)
+- [Saindo do Zero: OWASP – Qual a Importância em Aplicações Web](https://aiqon.com.br/blog/owasp-qual-a-importancia-em-aplicacoes-web/)
 
-- [Saindo do Zero: Artigo 2](https://blog.bughunt.com.br/tipos-de-testes-de-seguranca/)
+- [Saindo do Zero: 5 tipos de testes de segurança](https://blog.bughunt.com.br/tipos-de-testes-de-seguranca/)
 
-- [Primeiros Passos: Artigo 1](https://blog.betrybe.com/sql/sql-injection/)
+- [Primeiros Passos: SQL injection: quais os tipos, como funciona na prática e como prevenir?](https://blog.betrybe.com/sql/sql-injection/)
 
 - [Treinamento Intermediário: Udemy](https://www.udemy.com/course/sql-injection-ia/?utm_source=adwords-intl&utm_medium=udemyads&utm_campaign=LongTail_new_la.PT_cc.BR&utm_content=deal4584&utm_term=_._ag_118044111562_._kw__._ad_491671393399_._de_c_._dm__._pl__._ti_dsa-1131315795548_._li_1001773_._pd__._&gclid=CjwKCAjwzuqgBhAcEiwAdj5dRivDDx-sycn7QvDcnNNJtAim0vk5SZ-QJsztSAXQ23vxUQZqfgK-qxoC9L4QAvD_BwE)
+
+---
+
+## 6. Lista de palavras chave considerando todos os conceitos que são abordados no plano.
+
+- qa
+- documentação
+- desenvolvimento agil
+- como documentar um software
+- piramide de testes
+- TDD
+- BDD
+- suíte de testes
+- testes
+- qualidade de software
+- ciclo de vida do software
+- o que é teste de unidade
+- testes unitários
+- testes automáticos
+- testes de integração
+- o que é testes de integração
+- pirâmide de testes
+- automação de testes
+- OWASP
